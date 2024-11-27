@@ -15,3 +15,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salieri009)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salieri009)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=salieri009)]
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Salieri009&theme=dark)](https://git.io/streak-stats)
