@@ -12,3 +12,6 @@
  - Discord : ELAE
     - 😄 Pronouns: He/Him
     - ⚡ Fun fact: I can't belive I am stil learning.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salieri009)](https://github.com/anuraghazra/github-readme-stats)
+
