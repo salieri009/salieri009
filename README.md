@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customGradient=4E88D1,78C0E0&height=500)
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customGradient=4E88D1,78C0E0&width=400)
 
 # Introduction
 Hi, I’m @salieri009
