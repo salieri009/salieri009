@@ -18,8 +18,13 @@ Hi, I’m @salieri009.
 💞️ Interest on:
 - DevOps Projects
 - Game Projects
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salieri009)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salieri009)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📊 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salieri009&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🚀 GitHub Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salieri009&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 😄 Fun fact: Still learning and loving it!
