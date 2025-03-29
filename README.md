@@ -1,5 +1,5 @@
 # Introduction
-Hi, I’m @salieri009. 
+Hi, I’m @salieri009
 
 ## Interests
 - Learning various programming languages
