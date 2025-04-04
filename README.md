@@ -6,24 +6,29 @@ Whether it’s spoken languages, sign language, ancient scripts, or even artisti
 
 ## Interests
 - Learning various programming languages
-- Studying Natural languages
+- Studying Natural languages (English, Japanese, German)
 
 ## Contact
 - Email: [Kordalek@naver.com](mailto:Kordalek@naver.com)
 - University Email: [Jungwook.van-1@student.uts.edu.au](mailto:Jungwook.van-1@student.uts.edu.au)
-- Discord: ELAE
+- Discord: ELAE or elae
 - Linkedin : https://www.linkedin.com/in/jungwook-van-562827293/
 
 🌱 Currently learning:
 - Fundamentals of CS science (From Uni
 - Utilizations
 - Machine Learning
-- Data Analytics 
+- Data Analytics
+- 3D Graphics (Three.js)
+- DSA (Data Structure Algorithm) using C++
 
-💞️ Interest on:
+💞️ Interest in future careers:
 - DevOps Projects
 - Game Projects
 - AI Projects
+
+💼 Career Background : 
+- was military translator
 
 ## 📊 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salieri009&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
