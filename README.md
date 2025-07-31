@@ -26,7 +26,7 @@ Whether it’s spoken languages, sign language, ancient scripts, or even artisti
 - Linkedin : https://www.linkedin.com/in/jungwook-van-562827293/
 
 🌱 Currently learning:
-- Fundamentals of CS science (From Uni
+- Fundamentals of CS science and IT (From University)
 - Utilizations
 - Machine Learning
 - Data Analytics
