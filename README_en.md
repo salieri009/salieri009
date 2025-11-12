@@ -1,21 +1,23 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customGradient=4E88D1,78C0E0&text=salieri009&fontSize=50&fontColor=ffffff&animation=twinkling&height=200)
+![header](https://capsule-render.vercel.app/api?type=shark&text=Hey%20Everyone!%20I'm%20Salieri%20🦈&animation=fadeIn&color=gradient&customGradient=4E88D1,78C0E0&fontSize=50&fontColor=ffffff&height=200)
 
-# 👋 Introduction
+# Hi, I'm Salieri 😎
+
+**Developer | Language Enthusiast | Lifelong Learner**
+
+</div>
+
+---
+
+## About Me
 
 Hi, I'm **@salieri009**. I have a deep appreciation for languages, not just computer languages but also the diverse forms of human expression.  
 Whether it's spoken languages, sign language, ancient scripts, or even artistic mediums, I find joy in exploring how we communicate and connect through different forms.
 
 ---
 
-## 🔥 GitHub Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=salieri009&theme=tokyonight&hide_border=false)
-
----
-
-## 💻 Interests
+## Interests
 
 ### Programming Languages & Technologies
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -33,7 +35,7 @@ Whether it's spoken languages, sign language, ancient scripts, or even artistic 
 
 ---
 
-## 📧 Contact
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-Kordalek@naver.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kordalek@naver.com)
 [![University Email](https://img.shields.io/badge/University-Jungwook.van--1@student.uts.edu.au-blue?style=for-the-badge&logo=google&logoColor=white)](mailto:Jungwook.van-1@student.uts.edu.au)
@@ -42,7 +44,7 @@ Whether it's spoken languages, sign language, ancient scripts, or even artistic 
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Fundamentals of CS science and IT (From University)
 - Utilizations
@@ -53,7 +55,7 @@ Whether it's spoken languages, sign language, ancient scripts, or even artistic 
 
 ---
 
-## 💞️ Interest in Future Careers
+## Interest in Future Careers
 
 ![DevOps](https://img.shields.io/badge/DevOps-interested-yellowgreen?style=for-the-badge&logo=azuredevops)
 ![GameDev](https://img.shields.io/badge/GameDev-Love-orange?style=for-the-badge&logo=unity)
@@ -61,39 +63,37 @@ Whether it's spoken languages, sign language, ancient scripts, or even artistic 
 
 ---
 
-## 💼 Career Background
+## Career Background
 
 - Was military translator
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
+
+### Detailed Metrics
+
+![Metrics](https://raw.githubusercontent.com/salieri009/salieri009/main/metrics.svg)
+
+### Quick Overview
 
 <div align="center">
-  
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=salieri009&theme=tokyonight&hide_border=false)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salieri009&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salieri009&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=salieri009&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ---
 
-## 😄 Fun Fact
-
-**Still learning and loving it!**
-
-![Learning Badge](https://img.shields.io/badge/Still%20learning-and%20loving%20it-brightgreen?style=for-the-badge&logo=github)
-
----
-
 <div align="center">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=salieri009&color=blueviolet&style=for-the-badge)
 
 Made with ❤️ and GitHub
-
-</div>
 
 </div>
 

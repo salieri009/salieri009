@@ -1,23 +1,25 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customGradient=4E88D1,78C0E0&text=salieri009&fontSize=50&fontColor=ffffff&animation=twinkling&height=200)
+![header](https://capsule-render.vercel.app/api?type=shark&text=Hey%20Everyone!%20I'm%20Salieri%20🦈&animation=fadeIn&color=gradient&customGradient=4E88D1,78C0E0&fontSize=50&fontColor=ffffff&height=200)
 
-# 👋 自己紹介
+# Hi, I'm Salieri 😎
+
+**Developer | Language Enthusiast | Lifelong Learner**
+
+</div>
+
+---
+
+## About Me
 
 こんにちは、**@salieri009**です。私はコンピューター言語だけでなく、多様な形の人間表現を含む言語に深い関心を持っています。  
 話し言葉、手話、古代文字、または芸術的媒体を通じて、私たちがどのようにコミュニケーションを取り、異なる形でつながるかを探求することを楽しんでいます。
 
 ---
 
-## 🔥 GitHub連続貢献統計
+## Interests
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=salieri009&theme=tokyonight&hide_border=false)
-
----
-
-## 💻 興味
-
-### プログラミング言語と技術
+### Programming Languages & Technologies
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,14 +28,14 @@
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-blueviolet?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/DSA-C++-informational?style=for-the-badge)
 
-### 自然言語
+### Natural Languages
 ![English](https://img.shields.io/badge/English-C1+-blue?style=for-the-badge)
 ![Japanese](https://img.shields.io/badge/Japanese-N2-orange?style=for-the-badge)
 ![German](https://img.shields.io/badge/German-A2-lightgrey?style=for-the-badge)
 
 ---
 
-## 📧 連絡先
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-Kordalek@naver.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kordalek@naver.com)
 [![University Email](https://img.shields.io/badge/University-Jungwook.van--1@student.uts.edu.au-blue?style=for-the-badge&logo=google&logoColor=white)](mailto:Jungwook.van-1@student.uts.edu.au)
@@ -42,7 +44,7 @@
 
 ---
 
-## 🌱 現在学習中
+## Currently Learning
 
 - コンピューターサイエンスとITの基礎（大学）
 - 活用方法
@@ -53,7 +55,7 @@
 
 ---
 
-## 💞️ 将来のキャリアへの興味
+## Interest in Future Careers
 
 ![DevOps](https://img.shields.io/badge/DevOps-興味あり-yellowgreen?style=for-the-badge&logo=azuredevops)
 ![GameDev](https://img.shields.io/badge/GameDev-大好き-orange?style=for-the-badge&logo=unity)
@@ -61,39 +63,37 @@
 
 ---
 
-## 💼 キャリア背景
+## Career Background
 
 - 軍事通訳官の経験
 
 ---
 
-## 📊 GitHub統計
+## GitHub Statistics
+
+### Detailed Metrics
+
+![Metrics](https://raw.githubusercontent.com/salieri009/salieri009/main/metrics.svg)
+
+### Quick Overview
 
 <div align="center">
-  
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=salieri009&theme=tokyonight&hide_border=false)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salieri009&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salieri009&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=salieri009&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
----
-
-## 😄 面白い事実
-
-**まだ学んでいて、それを愛しています！**
-
-![Learning Badge](https://img.shields.io/badge/まだ学んで-それを愛しています-brightgreen?style=for-the-badge&logo=github)
 
 ---
 
 <div align="center">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=salieri009&color=blueviolet&style=for-the-badge)
 
-❤️とGitHubで作られました
-
-</div>
+Made with ❤️ and GitHub
 
 </div>
 

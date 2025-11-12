@@ -4,11 +4,13 @@
 
 # Hi, I'm Salieri 😎
 
-### Developer | Language Enthusiast | Lifelong Learner
+**Developer | Language Enthusiast | Lifelong Learner**
+
+</div>
 
 ---
 
-## 📖 About Me
+## About Me
 
 I'm a developer with a deep appreciation for languages—both programming and human languages.  
 I find joy in exploring how we communicate and connect through different forms of expression,  
@@ -16,7 +18,7 @@ whether it's code, spoken languages, sign language, or artistic mediums.
 
 ---
 
-## 🌐 Select Language / 언어 선택 / 言語を選択
+## Language Selection
 
 <div align="center">
 
@@ -28,17 +30,13 @@ whether it's code, spoken languages, sign language, or artistic mediums.
 
 ---
 
-## 📊 GitHub Metrics
+## GitHub Statistics
 
-<div align="center">
+### Detailed Metrics
 
-![Metrics](https://metrics.lecoq.io/salieri009?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=1&habits.from=200&habits.days=14&habits.facts=99.9%25&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&lines=1&lines.sections=base&lines.repositories.limit=4&lines.history.limit=4&stars=1&stars.limit=4&followup=1&followup.sections=repositories&followup.indepth=false&followup.archived=true&repositories=1&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FSeoul)
+![Metrics](https://raw.githubusercontent.com/salieri009/salieri009/main/metrics.svg)
 
-</div>
-
----
-
-## 📊 Quick Stats
+### Quick Overview
 
 <div align="center">
 
@@ -56,9 +54,7 @@ whether it's code, spoken languages, sign language, or artistic mediums.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salieri009&color=blueviolet&style=for-the-badge)
 
-**Made with ❤️ and GitHub**
-
-</div>
+Made with ❤️ and GitHub
 
 </div>
 
