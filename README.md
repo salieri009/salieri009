@@ -73,21 +73,16 @@ whether it's code, spoken languages, sign language, or artistic mediums.
 
 ## GitHub Statistics
 
+### Quick Overview
+
+| Streak | Top Languages | Overall Stats |
+| --- | --- | --- |
+| ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=salieri009&theme=tokyonight&hide_border=false) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salieri009&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=salieri009&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) |
+
 ### Detailed Metrics
 
 ![Metrics](https://raw.githubusercontent.com/salieri009/salieri009/main/metrics.svg)
 
-### Quick Overview
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=salieri009&theme=tokyonight&hide_border=false)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salieri009&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=salieri009&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ---
 
@@ -96,6 +91,12 @@ whether it's code, spoken languages, sign language, or artistic mediums.
 ![Profile Views](https://komarev.com/ghpvc/?username=salieri009&color=blueviolet&style=for-the-badge)
 
 Made with ❤️ and GitHub
+
+</div>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=shark&text=See%20you%20soon!%20%F0%9F%A6%88&animation=fadeIn&color=gradient&customGradient=4E88D1,78C0E0&fontSize=36&fontColor=ffffff&height=200&section=footer)
 
 </div>
 
