@@ -22,7 +22,8 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y jq docker.io
+          sudo apt-get install -y jq
+          command -v docker >/dev/null || echo "docker is not available on this runner"
 
       - name: Verify repository context
         run: |
