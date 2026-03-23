@@ -14,6 +14,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
@@ -48,4 +51,12 @@ jobs:
           plugin_repositories: yes
           config_timezone: Asia/Seoul
           filename: metrics.svg
+
+      - name: Commit metrics
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add metrics.svg
+          git diff --staged --quiet || git commit -m "Update metrics"
+          git push
 
