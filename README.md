@@ -53,7 +53,7 @@ whether it's code, spoken languages, sign language, or artistic mediums.
 
 | Streak | Top Languages | Overall Stats |
 | --- | --- | --- |
-| ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=salieri009&theme=tokyonight&hide_border=false) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salieri009&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=salieri009&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) |
+| ![GitHub Streak](https://streak-stats.demolab.com?user=salieri009&theme=tokyonight&hide_border=false) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salieri009&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=salieri009&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) |
 
 ### Detailed Metrics
 
