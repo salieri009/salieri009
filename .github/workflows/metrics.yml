@@ -146,7 +146,7 @@ jobs:
           # Retry to handle races with other workflow runs updating the same branch.
           for attempt in 1 2 3; do
             git fetch origin "$BRANCH"
-            git rebase --autostash "origin/$BRANCH"
+            git rebase --autostash -X theirs "origin/$BRANCH"
 
             if git push origin "HEAD:$BRANCH"; then
               echo "Push succeeded on attempt $attempt"
