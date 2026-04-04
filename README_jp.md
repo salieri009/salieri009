@@ -56,7 +56,7 @@
 
 ### Detailed Metrics
 
-![Metrics](https://raw.githubusercontent.com/salieri009/salieri009/master/metrics.svg)
+![Metrics](metrics.svg)
 
 ---
 
