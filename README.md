@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=shark&text=Hey%20Everyone!%20I'm%20Salieri%20🦈&animation=fadeIn&color=gradient&customGradient=4E88D1,78C0E0&fontSize=50&fontColor=ffffff&height=200)
+![header](moon.png)
 
 # Hi, I'm Salieri 😎
 
