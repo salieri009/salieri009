@@ -180,14 +180,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.2033829615056" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="212.2033829615056" y="0" width="108.10959878035541" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="320.31298174186105" y="0" width="58.66804701604656" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="378.9810287579076" y="0" width="56.198538229637016" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="435.1795669875446" y="0" width="12.520223486469504" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="447.6997904740141" y="0" width="9.342428135507639" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.04221860952174" y="0" width="1.8421640562229842" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="458.88438266574474" y="0" width="1.1156173342552724" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.05381165919283" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="212.05381165919283" y="0" width="108.03339785812496" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="320.0872095173178" y="0" width="58.804110207474004" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="378.8913197247918" y="0" width="56.15892675674826" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="435.05024648154006" y="0" width="12.57629201353933" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="447.6265384950794" y="0" width="9.417764903140636" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.04430339822005" y="0" width="1.840865609077054" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="458.8851690072971" y="0" width="1.114830992702944" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1310,7 +1310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."</div>
@@ -1357,7 +1357,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sweetice/Deep-reinforcement-learning-with-pytorch</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PyTorch implementation of DQN, AC,  ACER, A2C, A3C, PG,  DDPG, TRPO, PPO, SAC, TD3 and ....</div>
@@ -1410,7 +1410,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PyTorch implementations of deep reinforcement learning algorithms and environments</div>
@@ -1463,7 +1463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MorvanZhou/Reinforcement-learning-with-tensorflow</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple Reinforcement learning tutorials, 莫烦Python 中文AI教学</div>
@@ -1513,7 +1513,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jun 2026, 18:43:10 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jun 2026, 22:59:00 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
