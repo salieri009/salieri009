@@ -1,15 +1,16 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=shark&text=Hey%20Everyone!%20I'm%20Salieri%20🦈&animation=fadeIn&color=gradient&customGradient=4E88D1,78C0E0&fontSize=50&fontColor=ffffff&height=200)
+![header](https://capsule-render.vercel.app/api?type=shark&text=Hey%20Everyone!%20I'm%20Salieri&animation=fadeIn&color=gradient&customGradient=4E88D1,78C0E0&fontSize=50&fontColor=ffffff&height=200)
 
-# Hi, I'm Salieri 😎
+# Hi, I'm Jungwook Van (Salieri009)
 
-### Backend / Full-Stack Developer · CS Student @ UTS
+### Cloud · DevOps · Platform Engineering
 
-*Also a lifelong language enthusiast — from code to spoken languages, sign language, and art.*
+*Building the infrastructure and platforms that keep AI-era services running reliably.*
 
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Student](https://img.shields.io/badge/Student-UTS-blue?style=for-the-badge&logo=university&logoColor=white)
+**BIT @ UTS — Enterprise Software Development · Minor in Computer Graphics & Animation**
+
+![UTS](https://img.shields.io/badge/UTS-BIT%20Graduate-blue?style=for-the-badge&logo=university&logoColor=white)
 
 </div>
 
@@ -27,10 +28,12 @@
 
 ## About Me
 
-- 🎓 Computer Science student at **UTS (University of Technology Sydney)**.
-- 🛠️ I build **backend & full-stack** applications — mostly **Spring Boot** and **Node.js** on the server, **React** on the front.
-- 🗄️ Comfortable across relational and NoSQL databases, containers, and cloud (AWS / Azure).
-- 🌏 Curious by nature: beyond programming languages, I love exploring how we communicate — through spoken languages, sign language, and art.
+- Bachelor of Information Technology graduate from the **University of Technology Sydney** — majored in Enterprise Software Development, minored in Computer Graphics and Animation.
+- Heading toward **Cloud, DevOps, and Platform Engineering**. My interest is not in building AI models themselves, but in the infrastructure that lets services run reliably at scale — provisioning, deployment, observability, and operations.
+- Currently hands-on with **Docker, Kubernetes, Terraform, AWS/Azure, and Linux**, building CI/CD pipelines with GitHub Actions and Azure DevOps, while strengthening fundamentals in System Design, Operating Systems, and Computer Architecture.
+- Solid backend foundation in **Java and Python**, with full-stack project experience in TypeScript, React, and Vue.
+- I write learning-focused engineering posts on **velog** — Cloud, Docker, Kubernetes, and Backend series — written to be useful to other developers, not just a personal log.
+- Outside of code, I stay curious about languages in every form — spoken, signed, and artistic.
 
 ---
 
@@ -38,6 +41,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-salieri009.studio-4E88D1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://salieri009.studio)
 [![velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@salieri009)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jungwookvan/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kordalek37@gmail.com)
@@ -46,18 +50,29 @@
 
 ---
 
+## Currently Learning
+
+| Area | Focus |
+| --- | --- |
+| Cloud | AWS (toward SAA), Azure (toward AZ-104) |
+| Containers & IaC | Kubernetes (toward CKA), Terraform |
+| Foundations | Linux, System Design, Operating Systems, Computer Architecture |
+
+---
+
 ## Tech Stack
 
 | Category | Stack |
 | --- | --- |
-| Languages | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| Cloud & Infrastructure | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure-devops&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| CI/CD & DevOps | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) |
+| Languages | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge) |
 | Backend | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
-| Frontend | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) |
+| Frontend | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) |
 | Databases | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| DevOps & Cloud | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure-devops&logoColor=white) |
+| Graphics & Interactive | ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) |
 | Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| Exploring | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge) ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-blueviolet?style=for-the-badge) |
-| Operating Systems | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) |
+| Exploring | ![AI Infrastructure](https://img.shields.io/badge/AI%20Infrastructure-brightgreen?style=for-the-badge) ![MLOps](https://img.shields.io/badge/MLOps-blueviolet?style=for-the-badge) |
 
 ---
 
@@ -79,12 +94,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salieri009&color=blueviolet&style=for-the-badge)
 
-Made with ❤️ and GitHub
+Thanks for visiting.
 
 </div>
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=shark&text=See%20you%20soon!%20%F0%9F%A6%88&animation=fadeIn&color=gradient&customGradient=4E88D1,78C0E0&fontSize=36&fontColor=ffffff&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=shark&text=See%20you%20soon!&animation=fadeIn&color=gradient&customGradient=4E88D1,78C0E0&fontSize=36&fontColor=ffffff&height=200&section=footer)
 
 </div>
